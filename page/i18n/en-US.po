@@ -1,0 +1,62 @@
+msgid "up"
+msgstr "[BACK]"
+
+msgid "loading"
+msgstr "Loading..."
+
+msgid "back"
+msgstr "Back"
+
+msgid "total"
+msgstr "Total: "
+
+msgid "free"
+msgstr "Free: "
+
+msgid "byte"
+msgstr "bytes"
+
+msgid "kb"
+msgstr "Kb"
+
+msgid "mb"
+msgstr "Mb"
+
+msgid "gb"
+msgstr "Gb"
+
+msgid "folders"
+msgstr "Folders: "
+
+msgid "files"
+msgstr "Files: "
+
+msgid "empty"
+msgstr "Empty"
+
+msgid "folder"
+msgstr "Folder"
+
+msgid "file"
+msgstr "File"
+
+msgid "size"
+msgstr "Size: "
+
+msgid "resolution"
+msgstr "Resolution: "
+
+msgid "prefix"
+msgstr "Prefix"
+
+msgid "exit"
+msgstr "Exit"
+
+msgid "toobig"
+msgstr "The file is too big"
+
+msgid "file_error"
+msgstr "Error opening file"
+
+msgid "under_construction"
+msgstr "Under construction..."

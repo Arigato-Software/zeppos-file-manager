@@ -1,0 +1,62 @@
+msgid "up"
+msgstr "[НАЗАД]"
+
+msgid "loading"
+msgstr "Загрузка..."
+
+msgid "back"
+msgstr "Назад"
+
+msgid "total"
+msgstr "Всего: "
+
+msgid "free"
+msgstr "Свободно: "
+
+msgid "byte"
+msgstr "байт"
+
+msgid "kb"
+msgstr "Кб"
+
+msgid "mb"
+msgstr "Мб"
+
+msgid "gb"
+msgstr "Гб"
+
+msgid "folders"
+msgstr "Папок: "
+
+msgid "files"
+msgstr "Файлов: "
+
+msgid "empty"
+msgstr "Пусто"
+
+msgid "folder"
+msgstr "Папка"
+
+msgid "file"
+msgstr "Файл"
+
+msgid "size"
+msgstr "Размер: "
+
+msgid "resolution"
+msgstr "Разрешение: "
+
+msgid "prefix"
+msgstr "Префикс"
+
+msgid "exit"
+msgstr "Выход"
+
+msgid "toobig"
+msgstr "Файл слишком большой"
+
+msgid "file_error"
+msgstr "Ошибка открытия файла"
+
+msgid "under_construction"
+msgstr "В разработке..."

@@ -1,0 +1,53 @@
+{
+  "configVersion": "v3",
+  "app": {
+    "appId": 25828,
+    "appName": "File Manager",
+    "appType": "app",
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    },
+    "icon": "icon.png",
+    "vender": "Arigato Software",
+    "description": "File Manager application"
+  },
+  "permissions": [],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "3.0.0",
+      "target": "3.0.0",
+      "minVersion": "3.0"
+    }
+  },
+  "targets": {
+    "default": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/index",
+            "page/files-list",
+            "page/file-info",
+            "page/prefix-info",
+            "page/show-file"
+          ]
+        }
+      },
+      "platforms": [
+        {
+          "st": "r",
+		  "dw": 480
+        }
+	  ]
+    }
+  },
+  "i18n": {
+    "en-US": {
+      "appName": "File Manager"
+    },
+    "ru-RU": {
+      "appName": "Файловый менеджер"
+    }
+  },
+  "defaultLanguage": "en-US"
+}
