@@ -1,5 +1,5 @@
 # Zepp OS File Manager application
 
-QR-code to install the application:
+QR-code to install the application (version 1.0.0 alpha):
 
 ![QR-code to install the application](https://i.ibb.co/hKxQQYj/File-Manager-1-0-0-alpha.png)
